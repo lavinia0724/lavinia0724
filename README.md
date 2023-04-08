@@ -1,4 +1,4 @@
-## H 👋 I'm LAVI :cat2:
+## Hello 👋 I'm LAVI :cat2:
 
 - 🌱I'm currently studying in the Department of Computer Science and Information Engineering
 
