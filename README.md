@@ -5,5 +5,5 @@
 - :croissant: I'm learning to write programs in various programming languages and studying algorithms.
 - :paw_prints: My cat's name is Momi.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAVI724&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAVI724&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavinia0724&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavinia0724&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
