@@ -1,6 +1,6 @@
 ## Hello 👋 I'm LAVI :cat2:
 
-- :seedling: I'm a student in the Department of Computer Science and Information Engineering.
+- :seedling: I'm a student in the department of Computer Science and Information Engineering.
 - :croissant: I'm a member of the programming contest team ENDL\N.
 - :fried_shrimp: I'm currently learning cloud computing and deep learning.
 - :paw_prints: My cat's name is Momi.
