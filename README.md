@@ -6,4 +6,4 @@
 - :paw_prints: My cat's name is Momi.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavinia0724&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavinia0724&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavinia0724&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
