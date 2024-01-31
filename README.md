@@ -1,4 +1,4 @@
-## Hello 👋 I'm LAVI :cat2:
+## I'm LAVI :baby_chick:
 
 - :seedling: I'm a student in the department of Computer Science and Information Engineering.
 - :cherry_blossom: I'm about to become a graduate student in the department of Electrical Engineering. 
