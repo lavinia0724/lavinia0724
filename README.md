@@ -1,4 +1,4 @@
-## I'm LAVI, welcome to my Github :baby_chick:
+## I'm LAVI, welcome to my Github :baby_chick::mushroom:
 
 - :seedling: I'm a student in the department of Computer Science and Information Engineering.
 - :cherry_blossom: I'm about to become a graduate student in the department of Electrical Engineering. 
