@@ -6,6 +6,7 @@
 - :cherry_blossom: I'm about to become a graduate student in the department of Electrical Engineering.
 - :fried_shrimp: I'm currently learning Machine Learning and Generative AI.
 - :croissant: I'm a member of the programming contest team ENDL\N.
+- :octopus: My study blog: [INCLAVIC](https://lavinia0724.github.io/)
 
 
 <!-- Languages and Tools: -->
