@@ -5,7 +5,7 @@
 <!-- - :seedling: I'm a student in the department of Computer Science and Information Engineering.  -->
 - :cherry_blossom: I'm a graduate student in the Department of Electrical Engineering at National Taiwan University.
 - :fried_shrimp: I'm currently learning Machine Learning and Generative AI.
-- :croissant: I'm a member of the programming contest team ENDL\N.
+<!-- - :croissant: I'm a member of the programming contest team ENDL\N. -->
 - :octopus: My study blog:  [INCLAVIC](https://lavinia0724.github.io/)
 
 
