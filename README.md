@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=lavinia0724&color=ff69b4)
 
 <!-- - :seedling: I'm a student in the department of Computer Science and Information Engineering.  -->
-- :cherry_blossom: I'm a graduate student in the Department of Electrical Engineering at National Taiwan University.
+- :cherry_blossom: I am a master's student in the Department of Electrical Engineering at National Taiwan University.
 - :fried_shrimp: I'm currently learning Machine Learning, Generative AI and Hardware Security Module Applications.
 - :octopus: My study blog:  [INCLAVIC](https://lavinia0724.github.io/)
 
