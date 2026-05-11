@@ -50,14 +50,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lavinia0724&theme=dracula" />
 </p>
 
-<!-- Top Language + GitHub Streak -->
+<!-- Top Language per Repos + GitHub Streak -->
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lavinia0724&theme=dracula" />
   <img height="180" src="https://streak-stats.demolab.com?user=Lavinia0724&theme=dracula&hide_border=true" />
-</p>
-
-<!-- Repos per Language -->
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lavinia0724&theme=dracula" />
 </p>
 
